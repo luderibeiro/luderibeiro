@@ -14,6 +14,6 @@ I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luderibeiro&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luderibeiro&repo=github-readme-stats)](https://github.com/luderibeiro/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luderibeiro&repo=github-readme-stats)](https://github.com/luderibeiro/github-readme-stats)-->
 
 </div>
