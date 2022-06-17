@@ -1,6 +1,6 @@
 ### Hello there 👋, everything good?
 
-I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB) ant the campus of Gama (FGA).
+I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering at the <a style="text-decoration:color;" href="http://www.unb.br">University of Brasilia</a> (UNB) ant the campus of Gama (FGA).
 
 <!--**luderibeiro/luderibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working in the Senado Federal.
@@ -10,10 +10,8 @@ I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering a
 ## 📈 GitHub Stats
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luderibeiro&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/luderibeiro/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luderibeiro&show_icons=true&theme=tokyonight)
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luderibeiro&repo=github-readme-stats)](https://github.com/luderibeiro/github-readme-stats)-->
+![Lude Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=luderibeiro&show_icons=true&theme=tokyonight)
 
 </div>
