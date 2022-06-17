@@ -3,6 +3,7 @@
 I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering at the <a style="text-decoration:color;" href="http://www.unb.br">University of Brasilia</a> (UNB) ant the campus of Gama (FGA).
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=luderibeiro)
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/luderibeiro)
 
 <!--**luderibeiro/luderibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
