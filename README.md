@@ -7,8 +7,8 @@ I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering a
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/luderibeiro)
 
 <!--**luderibeiro/luderibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working in the Senado Federal.
-- 👯 I’m working on Sigi - Interlegis.
+- 🔭 I’m currently working at Tembici.
+- 👯 I’m working from home at Tembici Labs.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luderibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luderibeiro/)](https://www.linkedin.com/in/luderibeiro/) [![Gmail Badge](https://img.shields.io/badge/-ludeyuri07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ludeyuri07@gmail.com)](mailto:ludeyuri07@gmail.com)
 
 ## 📈 GitHub Stats
