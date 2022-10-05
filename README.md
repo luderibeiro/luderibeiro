@@ -13,7 +13,7 @@ I'm Lude Yuri de Castro Ribeiro and I'm currenty studying Software Engeneering a
 ## 📈 GitHub Stats
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luderibeiro&layout=compact&theme=tokyonight&langs_count=6&hide=java&count_private=true&show_icons=true)](https://github.com/luderibeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luderibeiro&layout=compact&theme=tokyonight&langs_count=6&count_private=true&show_icons=true)](https://github.com/luderibeiro/github-readme-stats)
 
 ![Lude Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=luderibeiro&show_icons=true&theme=tokyonight)
 
