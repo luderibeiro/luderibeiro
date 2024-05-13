@@ -1,4 +1,4 @@
-## Hello, how are you? This is the personal profile of Lude Ribeiro, FullStack Dev (Backend Focus - Python/Django)
+## Hello, how are you? This is the personal profile of Lude Ribeiro, FullStack Dev (Mainly Backend - Python/Django)
 
 **Prefere ler em português? Clique [aqui](README.md)**
 
