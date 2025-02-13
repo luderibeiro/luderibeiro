@@ -1,16 +1,73 @@
-## Hello, how are you? This is the personal profile of Lude Ribeiro, FullStack Dev (Mainly Backend - Python/Django)
+<!--**luderibeiro/luderibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-**Prefere ler em português? Clique [aqui](README.md)**
+<h1 align="center">Hello! I'm Lude Ribeiro 👋</h1>
+<h3 align="center">Software Engineer | FullStack Developer</h3>
 
-I'm Lude Yuri de Castro Ribeiro, a programmer and Software Engineer in training, married 🥰 to Talita Ribeiro since August 2022, follower of Jesus Christ, play drums in the church worship team, and enjoy playing video games and soccer occasionally.
+<p align="center">
+<a href="README.md">🇧🇷 Leia em Português</a>
+</p>
 
-I develop systems in Python/Django and also have experience in Frontend development with Angular up to version 15 and have dabbled in development with React JS (Next.js).
+<p align="center">
+<a href="https://www.linkedin.com/in/luderibeiro/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-luderibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+<a href="mailto:ludeyuri07@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-ludeyuri07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+</a>
+</p>
 
-- 📍 Brasília, DF, Brazil.
-- 💼 Looking for a job.
-- 📫 How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-luderibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luderibeiro/)](https://www.linkedin.com/in/luderibeiro/) [![Gmail Badge](https://img.shields.io/badge/-ludeyuri07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ludeyuri07@gmail.com)](mailto:ludeyuri07@gmail.com)
+---
 
-## 📈 GitHub Stats
+## About Me 🚀
+
+I'm **Lude Yuri de Castro Ribeiro**, a **Software Engineer & FullStack Developer** with experience in building modern, high-performance, and scalable applications. With over **3 years in the industry**, I develop robust solutions ranging from **intuitive user interfaces** to **high-availability backend systems**.
+
+My work combines **well-structured architecture**, **development best practices**, and a strong commitment to **code quality**. I'm always eager to learn and innovate to deliver the best solutions in every project.
+
+📍 **Location:** Brasília, DF, Brazil  
+💼 **Open to new opportunities**  
+📧 **Contact:** [ludeyuri07@gmail.com](mailto:ludeyuri07@gmail.com)
+
+---
+
+## 🚀 Technologies & Tools
+
+### 🔹 **Languages & Frameworks**
+
+-   **Python (Django, FastAPI, Flask)**
+-   **JavaScript | TypeScript (Angular, React.js, Next.js)**
+-   **HTML5 | CSS3 | SCSS | TailwindCSS**
+
+### 🔹 **Databases & Storage**
+
+-   **PostgreSQL | MySQL | SQLite**
+-   **Redis | Firebase | MongoDB**
+
+### 🔹 **DevOps & Cloud**
+
+-   **Docker | Docker Compose | Kubernetes**
+-   **CI/CD (GitHub Actions, GitLab CI/CD, Jenkins)**
+-   **AWS | GCP | Azure**
+
+### 🔹 **Methodologies & Tools**
+
+-   **Software Architecture** (Monolithic, Microservices)
+-   **Design Patterns & Best Practices**
+-   **Automated Testing (TDD, Pytest, Jest)**
+-   **Scrum | Kanban | Agile**
+-   **Version Control with Git & GitHub**
+
+---
+
+## 🎯 What am I looking for?
+
+I'm looking for challenges where I can apply my experience to develop innovative and impactful solutions. Whether it's building applications from scratch, optimizing existing systems, or working with **modern architectures**, I'm ready to contribute and grow with the team.
+
+If your company is looking for a **versatile and highly committed Software Engineer**, let's talk! 🚀
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -19,3 +76,7 @@ I develop systems in Python/Django and also have experience in Frontend developm
 ![Lude Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=luderibeiro&show_icons=true&theme=tokyonight)
 
 </div>
+
+---
+
+If you'd like to chat about technology, development, or new opportunities, feel free to reach out! 🚀
